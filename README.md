@@ -70,4 +70,4 @@ after saving the best set of weights, I loaded it through our model and tested i
 -  Implement the same task using PyTorch.
 
 
-[the google colab link:](https://colab.research.google.com/drive/16Ucvq2ll-JdIYleQJi9QzIsPbbiDX6QN)
+[the google colab link](https://colab.research.google.com/drive/16Ucvq2ll-JdIYleQJi9QzIsPbbiDX6QN)

@@ -59,7 +59,7 @@ the graphs below show the training and loss curves:
 
 ## Step 5: Test our final Model.
 
-after saving the best set of weights, I loaded it through our model and tested it using set of the available image set:
+after saving the best set of weights, I loaded it through our model and tested it using set of the the available images of test set:
 
 ![alt text][image5]
 

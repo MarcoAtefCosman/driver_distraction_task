@@ -23,6 +23,8 @@
 - **Load and fine tune ResNet50.**
 - **Model Training.**
 - **Test our final Model.**
+
+
 I'll explain each step in details below.
 
 
